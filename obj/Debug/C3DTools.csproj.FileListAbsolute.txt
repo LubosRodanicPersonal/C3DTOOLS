@@ -1,0 +1,10 @@
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\bin\Debug\C3DTools.dll
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\bin\Debug\C3DTools.pdb
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.csprojAssemblyReference.cache
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.csproj.CoreCompileInputs.cache
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.dll
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.pdb
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.DlgAlignment.resources
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.csproj.GenerateResource.cache
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.DlgNewProfile.resources
+E:\[[[PROJECT]]]\500_ARKANCE\INTRO\C3DTools\obj\Debug\C3DTools.Properties.Resources.resources
